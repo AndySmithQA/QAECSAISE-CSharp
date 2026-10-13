@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Lab3.Owasp</RootNamespace>
+  </PropertyGroup>
+</Project>

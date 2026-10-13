@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Lab2.Improved</RootNamespace>
+  </PropertyGroup>
+</Project>
